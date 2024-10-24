@@ -6,7 +6,7 @@ from time import strftime, localtime
 
 sent, errored = 0, 0
 
-# amar nam dipto
+# amar nam sdnekjhgehb
 
 with open("config.json") as config:
    data = json.load(config)
