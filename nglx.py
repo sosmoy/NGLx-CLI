@@ -6,6 +6,8 @@ from time import strftime, localtime
 
 sent, errored = 0, 0
 
+# amar nam dipto
+
 with open("config.json") as config:
    data = json.load(config)
    delay = data["delay"]
